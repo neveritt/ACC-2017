@@ -1,0 +1,17 @@
+- ecosystem
+- other packages
+- making state of the art functionality
+
+- make it smooth
+- remove focus on control
+- prediction error
+- validation data
+- plotting backends
+
+- additional functionality (lyapunov, sylvester)
+
+5-10 min ecosystem
+20 min control sysid
+10 min advanced + contributions
+
+ESTA
